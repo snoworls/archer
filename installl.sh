@@ -37,7 +37,7 @@ mkdir ~/.config
 mkdir ~/.config/polybar
 mkdir ~/.config/bspwm
 mkdir ~/.config/sxhkd
-chmod +x internett.sh bar.sh
-mv polybar/config.ini polybar/internett.sh polybar/bar.sh ~/.config/polybar
+chmod +x internett.sh bat.sh
+mv polybar/config.ini polybar/internett.sh polybar/bat.sh ~/.config/polybar
 mv bspwm/bspwmrc ~/.config/bspwm
 mv sxhkd/sxhkdrc ~/.config/sxhkd
